@@ -7,8 +7,8 @@ const dataS = {
 const data = JSON.stringify(dataS);
 console.log(data);
 const options = {
-  hostname: '5299110-sb1.extforms.netsuite.com',
-  path: '/app/site/hosting/scriptlet.nl?script=1050&deploy=1&compid=5299110_SB1&h=58555993adcefd0458a4',
+  hostname: 'hotstname',
+  path: 'path',
   method: 'POST',
   headers: {
     'Content-Type': 'application/json',
